@@ -1,0 +1,1 @@
+El parámetro --output se utiliza para especificar la ubicación donde se creará el proyecto. Si utilizas **--output .**, estás indicando que el proyecto se debe generar en el directorio actual, es decir, en el mismo directorio donde se ejecuta el comando.
